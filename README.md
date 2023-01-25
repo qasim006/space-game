@@ -1,5 +1,9 @@
 # space-game
 
+# Try the game here
+
+https://qasim006.itch.io/space-game
+
 ## Goal
 
 Collect as many gems as possible to achieve the highest score possible while dodging all the astroids.
