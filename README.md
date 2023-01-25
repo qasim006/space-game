@@ -7,3 +7,9 @@ Collect as many gems as possible to achieve the highest score possible while dod
 ## Controls
 
 Use the arrows to move accross the screen.
+
+## Screenshots
+
+![Level 0](https://raw.githubusercontent.com/qasim006/space-game/main/screenshots/Level%200.png)
+
+![Level 12](https://raw.githubusercontent.com/qasim006/space-game/main/screenshots/Level%2012%202.png)
