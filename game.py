@@ -87,6 +87,7 @@ gem_y_change = gem_speed
 
 bg_x = 0
 bg_speed = 2
+
 # Main game loop
 while running:
     clock.tick(FPS)
@@ -251,7 +252,4 @@ while running:
 pygame.quit()
 
 
-#working with vertical
-#working with horizontal
-#It works with horizontal scroll but has a flicker
-#No more flicker
+
